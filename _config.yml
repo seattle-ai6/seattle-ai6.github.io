@@ -1,2 +1,3 @@
 name: Seattle's AI Saturday's Chapter
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
